@@ -1,0 +1,14 @@
+variables : es renombrar o hacer referencia a otro valor,
+            es como asignar un apodo a un amigo que que lo caracteriza de forma particular.
+
+String : es la formacion de palabras o unión de letras y algunos simbolos para dar significado
+         a lo que se esta programando.
+
+Funciones:  son maquinas que realizan una actividad, cuando de le proporciona algun material (valido)
+            que seria los "argumentos" y entrega un producto que seria el "return".
+
+Declaraciones if : es cuando mama nos asigna una actividad, o nos hace una pregunta de nuetras actividades:
+
+Valores Booleanos (true, false) : es la validacion de si cumplimos la actividad asignada de mama, 
+                                    si la terminamos seria "true", pero sino cumplimos seria "false".
+                                    

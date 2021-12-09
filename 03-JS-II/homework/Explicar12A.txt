@@ -1,0 +1,15 @@
+Explicación a infantes de 12 años
+
+for :   Es cuando queremos comprar algun juguete y necesitamos ahorra, pero tenemos 
+        limitantes de tiempo, de cuanto tenemos que ahorrar y como de comienso el ahorro.
+        hasta cumplir con esas condiciones veremos si podemos comprar el juegue o no.
+
+ &&, || y ! : Son indicaciones que nos condicionan a para obterner algun beneficio o recibir 
+              o un regaño, con los simbolos "&&" tenemos que cumplir todas las tareas asignadas 
+              para recibir el beneficio, en cambio con con los simbolos "||" con alguna tarea que
+              cumplimos ya nos daran un beneficio. el último simbolo es como cuando contradecimos
+              a nuestros padres, no quiere decir que esta bien o mal lo que dicen nuetros padres 
+              o nosotro tengamos la razon, como ejemplo 
+              mama dice si, nosotros decimos no
+              mama dice no, nosotros decimos si,
+              

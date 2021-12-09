@@ -1,0 +1,4 @@
+prototype : es como dar un certificado de que ya tiene el compañero una nueva habilidad.
+
+_ cosntructores _ : es como si el compañero fuera un ejemplo de las caracteristica y habilidades que debemos tener
+                    los nuevo compañeros, o como si fuera la escuela donde todos debemos salir conociendo los mismo.

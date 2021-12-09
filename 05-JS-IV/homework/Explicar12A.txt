@@ -1,0 +1,11 @@
+Objetos:  Es cuando a un companero podemos decir sus caracteriticas o habilidades
+
+Propiedades:   nombrar las caracteristicas que tiene ese compañero.
+
+Métodos:   es una actividad que puede realizar el compañero que es indicada por su caracteristica, 
+
+Bucle `for…in`: es la actividad de buscar las caracteristica del compañero y usar la que necesitamos
+
+Notación de puntos vs notación de corchetes : cuando utilizamos la notación de punto estamos solicitando una caracteristica
+                                             o habilidad del companero sabemos que tiene, y cuando utilizamos corchete es cuando
+                                             vamos a dar otra caracteristica o le vamos a en enseñar ha hacer algo nuevo (otra habilidad)

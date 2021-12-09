@@ -1,0 +1,4 @@
+Array : es el compañero que lo habiamos identificado con un apodo, 
+        pero ahora ese compañero es portador de cosas que la habiamos
+        encargado guardar, que puede ser variado como ropa, dinero, secretos
+        una alcanacia, una maleta, recados.

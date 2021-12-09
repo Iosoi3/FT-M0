@@ -1,0 +1,30 @@
+
+* {
+    text-align: center;
+}
+
+h1 {color: rgb(255, 153, 0);
+    align-self: center;
+    }
+
+img {
+     width: 400px;}
+
+#thirdDiv {
+          display: inline-flex;
+          width: 500px;
+          height: 600px;
+          background-color: rgba(255, 208, 0, 0.596);
+          padding: 50;border: 20px groove rgb(153, 51, 127);
+          }
+        
+
+#spanId {
+        font-size: 18px; color: ;
+        margin: 20px;
+        }
+
+
+body {
+    background-image: url( https://paisajelibre.com/wp-content/uploads/2016/08/garden-tour-paisaje-libre-1.jpg);
+}
